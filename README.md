@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=realnamkha&label=Profile%20views&color=0e75b6&style=flat" alt="realnamkha" /> </p> -->
 
-- 🌱 I’m currently learning **Data visualization and manipulation**
+- 🌱 
 
 - 📫 How to reach me **namkhagyatso999@gmail.com**
 
