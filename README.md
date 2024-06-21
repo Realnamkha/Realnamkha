@@ -1,4 +1,4 @@
-#  About Me: NAMKHA GYATSO LAMA
+#  NAMKHA GYATSO LAMA
 🌱 I’m currently learning  Large Language Models(LLMS) and Generative AI(GEN-AI)
 
 
