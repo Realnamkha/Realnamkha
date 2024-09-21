@@ -1,5 +1,5 @@
 #  NAMKHA GYATSO LAMA
-🌱 I’m currently learning  Large Language Models(LLMS) and Generative AI(GEN-AI)
+🌱 I’m currently learning Deep learning Neural Network and Large Language Models
 
 
 # 💻 Tech Stack:
